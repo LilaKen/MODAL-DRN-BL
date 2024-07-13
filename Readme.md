@@ -30,5 +30,3 @@ This project contains various scripts and models for training and testing on a s
 ## Contact
 
 If you have any questions about the code files, please contact the author at [lil_ken@163.com](mailto:lil_ken@163.com).
-
-**PS:** This is the first public code experiment, and there may be many places that are not considerate enough. We appreciate your understanding.
