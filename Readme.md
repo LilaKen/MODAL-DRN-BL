@@ -1,4 +1,4 @@
-# Project README
+# Overview
 
 This project contains various scripts and models for training and testing on a specific dataset. Below is a brief description of the directory structure and the purpose of each script.
 
@@ -30,3 +30,13 @@ This project contains various scripts and models for training and testing on a s
 ## Contact
 
 If you have any questions about the code files, please contact the author at [lil_ken@163.com](mailto:lil_ken@163.com).
+
+## Citation
+lf you find this repo helpful, please cite the following paper:
+```
+@inproceedings{zeng-etal-2024, 
+title = "MODAL-DRN-BL: A framework for modal analysis based on dilated residual broad learning networks", 
+author = "Zeng, Peijian and Lin Nankai and Shun Li and Lin Jianghao and Yang Aimin and Hou Liheng", 
+booktitle = "Journal of Computing and Information Science in Engineering", 
+year = "2024", 
+publisher = "American Society of Mechanical Engineers" }
