@@ -34,9 +34,11 @@ If you have any questions about the code files, please contact the author at [li
 ## Citation
 lf you find this repo helpful, please cite the following paper:
 ```
-@inproceedings{zeng-etal-2024, 
-title = "MODAL-DRN-BL: A framework for modal analysis based on dilated residual broad learning networks", 
-author = "Zeng, Peijian and Lin Nankai and Shun Li and Lin Jianghao and Yang Aimin and Hou Liheng", 
-booktitle = "Journal of Computing and Information Science in Engineering", 
-year = "2024", 
-publisher = "American Society of Mechanical Engineers" }
+@article{zeng2025modal,
+  title={MODAL-DRN-BL: A framework for modal analysis based on dilated residual broad learning networks},
+  author={Zeng, Peijian and Lin, Nankai and Li, Shun and Hou, Liheng and Lin, Jianghao and Yang, Aimin},
+  journal={Journal of Computing and Information Science in Engineering},
+  pages={1--12},
+  year={2025}
+}
+
